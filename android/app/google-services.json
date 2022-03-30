@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "497208828351",
+    "project_id": "repj-a4bb1",
+    "storage_bucket": "repj-a4bb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497208828351:android:7be4080617ddff4918010a",
+        "android_client_info": {
+          "package_name": "com.onproperty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497208828351-vnvmn4uff17tgo241p54pm7ishmjtvti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onproperty",
+            "certificate_hash": "1352c86a48f72cf99fe27ce862d1259b58202550"
+          }
+        },
+        {
+          "client_id": "497208828351-mpg1f16idgcfbegj7jc6cdsnvn3gof84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARYg6rkTeYv78dwZwicasRerZYLRxcq14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497208828351-mpg1f16idgcfbegj7jc6cdsnvn3gof84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
